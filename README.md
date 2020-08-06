@@ -30,11 +30,11 @@ For My frontend I am currently polishing On My React.
 
 📫 How to reach me:
 
-![Twitter](https://twitter.com/samkb420).
+![Twitter]--[@samkb420](https://twitter.com/samkb420).
 
-![E-mail](kagosamuel07@yahoo.com).
+![E-mail]--[kagosamuel07@yahoo.com](kagosamuel07@yahoo.com).
 
-![Phone](0792986331)
+![Phone][0792986331]
 
 
 
